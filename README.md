@@ -1,4 +1,4 @@
-# 🎬The movie-DB
+# 🎬The Movie-DB
 
 A comprehensive movie information platform that provides details about films, TV shows, cast & crew, ratings, trailers, and more — powered by The Movie Database (TMDb) API.
 
