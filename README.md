@@ -15,8 +15,6 @@ Auto-suggest search results
 
 Detailed search filters (genre, rating, release year, etc.)
 
-🎞 Movie Details
-
 #🚀 Tech Stack
 
 Frontend: React / HTML+CSS+JS
