@@ -10,13 +10,19 @@ Users can browse trending movies, search for titles, view cast information, watc
 #✨ Features
 
 Search movies or TV shows by title
+
 Auto-suggest search results
+
 Detailed search filters (genre, rating, release year, etc.)
+
 🎞 Movie Details
 
 #🚀 Tech Stack
 
 Frontend: React / HTML+CSS+JS
+
 Backend: Node.js
+
 API Provider: TMDb API
+
 Styling: Tailwind / Bootstrap
