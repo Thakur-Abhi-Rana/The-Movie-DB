@@ -52,7 +52,7 @@ const Footer = () => {
             <div className="col-md-7 col-lg-8 text-centers">
               <p>Copyright <span>©</span>2023 All rights reserved by:
                 <a href="#" className="text-decoration-none text-warning">
-                  <strong>Arjun Pundir</strong>
+                  <strong>Abhishek Kumar Pundir</strong>
                 </a>
               </p>
             </div>
@@ -62,5 +62,6 @@ const Footer = () => {
     </>
   )
 }
+
 
 export default Footer;
